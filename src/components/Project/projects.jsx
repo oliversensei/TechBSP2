@@ -28,14 +28,14 @@ const Projects = () => {
       src: proj3, 
       alt: "Prompt Engineering with AI Models", 
       title: "Prompt Engineering with AI Models", 
-      type: "AI Certificate", 
+      type: "UDEMY Certificate", 
       link: ""  
     },
     { 
       src: proj1, 
       alt: "Virtual Executive Assistant", 
       title: "Virtual Executive Assistant", 
-      type: "Professional Diploma", 
+      type: "UDEMY Certificate",
       link: ""  
     },
     { 
