@@ -19,7 +19,7 @@ const Hero = () => {
           <span className="label-large section-subtitle">Freelancer</span>
           <h1 className="display-small">Kyle Lubayan</h1>
           <p className="body-large section-text">
-            Your future is created by what you so today not Tomorrow
+            Your future is created by what you do today not tomorrow.
           </p>
 
           <div className="btn-wrapper">
