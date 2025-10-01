@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TechBSP2/static/css/main.eb4a6ee8.css",
+    "main.js": "/TechBSP2/static/js/main.dcdddfe8.js",
+    "static/media/cert-2.jpg": "/TechBSP2/static/media/cert-2.674e7d4c0a1a44f26f13.jpg",
+    "static/media/cert-1.jpg": "/TechBSP2/static/media/cert-1.80a4844dcba497606ed7.jpg",
+    "static/media/light-bg.jpg": "/TechBSP2/static/media/light-bg.56948e815191ab8ccf5b.jpg",
+    "static/media/dark-bg.jpg": "/TechBSP2/static/media/dark-bg.e1aaa19acbdacc3f9138.jpg",
+    "static/media/cert-5.jpg": "/TechBSP2/static/media/cert-5.9b6354187b03674b92a0.jpg",
+    "static/media/cert-4.jpg": "/TechBSP2/static/media/cert-4.d98d4568f917e9c7d6e5.jpg",
+    "static/media/cert-3.jpg": "/TechBSP2/static/media/cert-3.9fd1590d96329a6132d1.jpg",
+    "index.html": "/TechBSP2/index.html",
+    "main.eb4a6ee8.css.map": "/TechBSP2/static/css/main.eb4a6ee8.css.map",
+    "main.dcdddfe8.js.map": "/TechBSP2/static/js/main.dcdddfe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4a6ee8.css",
+    "static/js/main.dcdddfe8.js"
+  ]
+}
