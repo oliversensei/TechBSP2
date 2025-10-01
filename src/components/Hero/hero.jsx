@@ -28,7 +28,7 @@ const Hero = () => {
               <span className="label-large">kylelubayan@gmail.com</span>
               <div className="state-layer"></div>
             </a>
-            <a href="https://verfolio-resume.vercel.app/" class="chip">
+            <a href="https://kyle-resume-olive.vercel.app/" class="chip">
               <MdInsertDriveFile aria-hidden="true" />
               <span class="label-large">View Resume</span>
               <div class="state-layer"></div>
