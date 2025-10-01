@@ -11,14 +11,14 @@ const Projects = () => {
 
   const projectData = [
     { 
-      src: proj4, 
+      src: proj1, 
       alt: "Top 5 Earner", 
       title: "Top 5 Earner", 
       type: "Frontrow", 
       link: ""  
     },
     { 
-      src: proj5, 
+      src: proj2, 
       alt: "Top 3 Seller of the Month", 
       title: "Top 3 Seller of the Month", 
       type: "Frontrow", 
@@ -32,14 +32,14 @@ const Projects = () => {
       link: ""  
     },
     { 
-      src: proj1, 
+      src: proj4, 
       alt: "Virtual Executive Assistant", 
       title: "Virtual Executive Assistant", 
       type: "UDEMY Certificate",
       link: ""  
     },
     { 
-      src: proj2, 
+      src: proj5, 
       alt: "Top 7 Earner", 
       title: "Top 7 Earner", 
       type: "Frontrow", 
