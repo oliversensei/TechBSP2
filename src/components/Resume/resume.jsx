@@ -12,16 +12,30 @@ const Resume = () => {
           <ul className="list space-y-4"> 
             <li className="resume-item"> 
               <div className="resume-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"> 
-                <p className="body-large font-semibold"><strong>1 Aviation (Cebu Pacific)</strong></p> 
-                <span className="label-medium card-subtitle text-gray-500">2024 - 2025</span> 
-                <span className="body-medium card-text text-gray-700">Duty Supervisor</span> 
+                <p className="body-large font-semibold"><strong>Alorica</strong></p> 
+                <span className="label-medium card-subtitle text-gray-500">July 2025 - Present</span> 
+                <span className="body-medium card-text text-gray-700">Customer Service Representative</span> 
               </div> 
             </li> 
             <li className="resume-item"> 
               <div className="resume-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"> 
-                <p className="body-large font-semibold"><strong>Alorica</strong></p> 
-                <span className="label-medium card-subtitle text-gray-500">July - Present</span> 
-                <span className="body-medium card-text text-gray-700">Customer Service Representative</span> 
+                <p className="body-large font-semibold"><strong>1Aviation (Cebu Pacific)</strong></p> 
+                <span className="label-medium card-subtitle text-gray-500">2024 - 2025</span> 
+                <span className="body-medium card-text text-gray-700">Duty Supervisor / Baggage Master / Station Agent</span> 
+              </div> 
+            </li> 
+            <li className="resume-item"> 
+              <div className="resume-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"> 
+                <p className="body-large font-semibold"><strong>Frontrow international</strong></p> 
+                <span className="label-medium card-subtitle text-gray-500">2019 - 2022</span> 
+                <span className="body-medium card-text text-gray-700">Sales Associate</span> 
+              </div> 
+            </li> 
+            <li className="resume-item"> 
+              <div className="resume-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"> 
+                <p className="body-large font-semibold"><strong>Kafat kitchennete Cafe</strong></p> 
+                <span className="label-medium card-subtitle text-gray-500">2016 - 2019</span> 
+                <span className="body-medium card-text text-gray-700">Waiter / Assistant Chef</span> 
               </div> 
             </li> 
           </ul> 
@@ -156,8 +170,7 @@ const Resume = () => {
               <p className="text-gray-700">Creating visually appealing graphics and social media content using Canva.</p>
             </div>
           </div>
-        </div>
-      </div>
+        </div>      </div>
     </div> 
   ); 
 };
